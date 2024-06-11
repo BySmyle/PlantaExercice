@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "konva": "^9.3.11",
+    "vue-konva": "^3.0.2"
+  }
+}
